@@ -1,2 +1,3 @@
 # Java_TicTacToe
-Java Project | Tic Tac Toe
+
+This is a Java project made in NetBeans that allows you (against a computer) or two people to play tic tac toe.
